@@ -1,4 +1,3 @@
-@@ -0,0 +1,28 @@
 import os
 import time
 import pdb
@@ -27,4 +26,3 @@ if os.system(zip_command) == 0:
 	print 'Successful back up to',today
 else:
 	print 'Back up FAILED'
-\ No newline at end of file
